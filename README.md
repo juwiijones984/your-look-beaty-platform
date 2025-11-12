@@ -2,7 +2,6 @@
 
 A comprehensive beauty service platform built with React and Firebase, enabling customers to discover, book, and purchase beauty services and products while providing tools for service providers, administrators, and emergency responders.
 
-This project is based on the Figma design available at: https://www.figma.com/design/s2p9KCb9urjnbrE5PDtrxA/Your-Look-Beauty-Platform.
 
 ## Features
 
