@@ -9,3 +9,4 @@
 
   Run `npm run dev` to start the development server.
   "# your-look-beaty-platform" 
+"# your-look-beaty-platform"  
